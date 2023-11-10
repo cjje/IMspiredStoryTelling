@@ -2,8 +2,13 @@ senentecepiece 0.1.99
 Pillow 10.1.0
 ipywidgets 8.1.1
 matplotplib 3.8.1
-textsum
-spacy
-pytextrank
+#textsum
+#spacy
+#pytextrank
 openai 
 diffuser
+evaluate
+rouge_score
+
+torchtext
+torchmetrics
